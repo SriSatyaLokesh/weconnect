@@ -1,1 +1,1 @@
-web: gunicorn weconnect.wsgi
+web: gunicorn src.weconnect.wsgi
